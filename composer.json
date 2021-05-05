@@ -1,0 +1,23 @@
+{
+    "name": "idmahbub/briva",
+    "description": "briva bri virtual account laravel package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "idmahbub",
+            "email": "bubyc58@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Idmahbub\\Briva\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}
